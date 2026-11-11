@@ -1,12 +1,12 @@
 {
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Deterministic authorization gateway for AI agent MCP tool traffic",
   "homepage": "https://github.com/ANIMANxd/sylenix-guard",
   "license": "Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/ANIMANxd/sylenix-guard/releases/download/v0.1.0/sylenix-guard_0.1.0_windows_amd64.zip",
-      "hash": "e619d016a7924192f1d9471835a4627b240a9f946a6a151da70957ce2d016428"
+      "url": "https://github.com/ANIMANxd/sylenix-guard/releases/download/v0.1.1/sylenix-guard_0.1.1_windows_amd64.zip",
+      "hash": "24bda73564bdb4727c72321852b3cc710efd842a595c5fa4b4f42070d0bc1606"
     }
   },
   "bin": "sylenix-guard.exe",
